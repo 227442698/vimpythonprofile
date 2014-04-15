@@ -15,10 +15,10 @@ pathogen工具 vim-pathogen。
 关于代码注释
 ============
 
-1.前提安装好pathogen
-2.mkdir -p ~/.vim/bundle
-3.cd ~/.vim
-4.安装方法： git clone https://github.com/scrooloose/nerdcommenter.git bundle/nerdcommenter
-5.可视模式 选中 按 \cc逐行注释 \cu取消注释 \cm块注释
+1.前提安装好pathogen;
+2.mkdir -p ~/.vim/bundle;
+3.cd ~/.vim;
+4.安装方法： git clone https://github.com/scrooloose/nerdcommenter.git bundle/nerdcommenter;
+5.可视模式 选中 按 \cc逐行注释 \cu取消注释 \cm块注释;
 
 
